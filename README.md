@@ -1,16 +1,31 @@
-## Hi there 👋
+ Hi there 👋, I'm Angelo Guarina
+ 
+ ABOUT ME
+ 
+  I am a BSIT student currently studying at Laguna State Polytechnic University. Currently learning Python, Flask, SQL, Flutter, and Dart. My goal is to become a skilled Web and Mobile Application Developer. Interested in Software Development, Cloud Computing, and UI/UX Design.
 
-<!--
-**guarinaangelo5/guarinaangelo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ SKILLS
 
-Here are some ideas to get you started:
+  LANGUAGES: Python, Dart, SQL
+  FRAMEWORK/TOOLS: Flask, Flutter, Git, GitHub
+  OTHER: Database Management, Web Development Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  CURRENT PROJECTS
+
+  Learning Git and GitHub for version control.
+  Developing practice projects in Python and Flutter.
+  Creating small apps as portfolio projects.
+
+  CONNNECT WITH ME 
+
+  Email: guarinaangelo5@gmail.com
+
+  "CODE, LEARN, AND SHARE."
+  
+
+ 
+
+
+ 
+
+
